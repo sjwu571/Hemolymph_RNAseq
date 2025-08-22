@@ -1,1 +1,1 @@
-# Hemolymph_RNAseq
+# Sex-specific transcriptomic signatures in Pacific oyster hemolymph
