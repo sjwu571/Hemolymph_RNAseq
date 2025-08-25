@@ -1,1 +1,2 @@
-
+Read counts data was uploaded to iDEP v2.0 (https://bioinformatics.sdstate.edu/idep/). The data was filtered to include genes with more than 0.5 counts in 1 library. The data was transformed with VST: Variance Stabilizing Transformation. 
+PCA plots was generated.
